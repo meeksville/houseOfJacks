@@ -1,0 +1,120 @@
+h1 {
+	font-size:2.5em;
+	font-family:fantasy;
+	color:rgb(100,10,100);
+	background-color:rgb(10,100,10);
+	}
+h3 {
+	color:rgb(50,75,100);
+	background-color:rgb(212,250,20);
+	}	
+u {color:rgb(150,100,50);}
+#all-body {
+	font-size:20px;
+	background:rgb(10,10,150);
+	text-align:center;
+	}
+ol {
+	color:rgb(25,300,75);
+	text-align:center;
+	}
+p {
+	color:rgb(150,150,10);
+	font-weight:bold;
+	text-align:center;
+	}
+#table-pros-and-cons {
+	font:bold 20px red;
+	color:red;
+	padding:20px;
+	}
+.table-head {
+	font:bold 1.3em serif;
+	text-decoration:underline;
+	position:relative;
+	top:135px;
+	}
+#code-table {
+	text-align:center;
+	position:relative;
+	bottom:310px;
+	font:bold 17px;
+	}			
+.pros {
+	position:relative;
+	right:40px;
+	top:135px;
+	border:5px dotted purple;
+	color:green;
+	background-color:gold;
+	font-weight:bold;
+	font-style:italic;
+}
+.cons {
+	position:relative;
+	left:30px;
+	border:5px dotted purple;
+	top:135px;
+	color:red;
+	background-color:gold;
+	font-weight:bold;
+	font-style:italic;
+}
+a {
+	text-align:center;
+	}
+#path-table {
+	border-collapse:separate;
+	border-spacing:100px 0;
+	padding:15px;
+	color:rgb(100,20,30);
+	background-color:rgb(255,175,22);
+	font-weight:bold;
+	margin:15px;
+	}	
+#path-table-head {
+	color:rgb(255,215,0);
+	text-decoration:underline;
+	font-family:cursive;
+	font-size:1.5em;
+	font-style:italic;
+	background-color:rgb(22,22,200);
+	}	
+.path-table-body {
+	background-color:rgb(10,200,150);
+	}
+.plain-link {
+	text-decoration:none;
+	}
+#a {
+	color:gold;
+	text-decoration:underline;
+	font:bold 20px "Arial",sans-serif;
+	position:relative;
+	top:120px;
+}
+#p {
+	color:gold;
+	text-decoration:underline;
+	font:bold 20px "Arial",sans-serif;
+	position:relative;
+	top:280px;
+	right:100px;
+}
+#q {
+	color:gold;
+	text-decoration:underline;
+	font:bold 20px "Arial",sans-serif;
+	position:relative;
+	top:240px;
+	left:100px;
+}
+#jesus {
+	border:20px solid brown;
+	position:relative;
+	top:150px;
+}
+#stupid-jesus {
+	position:relative;
+	bottom:200px;
+}
